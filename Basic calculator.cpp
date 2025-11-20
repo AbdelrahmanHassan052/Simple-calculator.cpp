@@ -3,7 +3,7 @@
 //Date : November 2025
 /* 
 -------------------------------------------
-Dscription :
+Description :
 A basic command - line calculator that
 supports addition, subtraction,
 multiplication, division, and power.
